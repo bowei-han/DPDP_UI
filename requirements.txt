@@ -3,4 +3,3 @@ pandas
 networkx
 plotly
 numpy
-collections
