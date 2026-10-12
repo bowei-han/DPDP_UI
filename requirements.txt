@@ -3,5 +3,4 @@ pandas
 networkx
 plotly
 numpy
-json
 collections
